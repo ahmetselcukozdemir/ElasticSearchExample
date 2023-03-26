@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\ElasticSearchExample\ElasticSearch\ElasticSearch.BLL\obj\Debug\net7.0\ElasticSearch.BLL.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\ElasticSearchExample\ElasticSearch\ElasticSearch.BLL\obj\Debug\net7.0\ElasticSearch.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\ElasticSearchExample\ElasticSearch\ElasticSearch.BLL\obj\Debug\net7.0\ElasticSearch.BLL.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\ElasticSearchExample\ElasticSearch\ElasticSearch.BLL\obj\Debug\net7.0\ElasticSearch.BLL.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\ElasticSearchExample\ElasticSearch\ElasticSearch.BLL\obj\Debug\net7.0\ElasticSearch.BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\ElasticSearchExample\ElasticSearch\ElasticSearch.BLL\bin\Debug\net7.0\ElasticSearch.BLL.deps.json
+C:\Users\user\Documents\GitHub\ElasticSearchExample\ElasticSearch\ElasticSearch.BLL\bin\Debug\net7.0\ElasticSearch.BLL.dll
+C:\Users\user\Documents\GitHub\ElasticSearchExample\ElasticSearch\ElasticSearch.BLL\bin\Debug\net7.0\ElasticSearch.BLL.pdb
+C:\Users\user\Documents\GitHub\ElasticSearchExample\ElasticSearch\ElasticSearch.BLL\obj\Debug\net7.0\ElasticSearch.BLL.dll
+C:\Users\user\Documents\GitHub\ElasticSearchExample\ElasticSearch\ElasticSearch.BLL\obj\Debug\net7.0\refint\ElasticSearch.BLL.dll
+C:\Users\user\Documents\GitHub\ElasticSearchExample\ElasticSearch\ElasticSearch.BLL\obj\Debug\net7.0\ElasticSearch.BLL.pdb
+C:\Users\user\Documents\GitHub\ElasticSearchExample\ElasticSearch\ElasticSearch.BLL\obj\Debug\net7.0\ref\ElasticSearch.BLL.dll
+C:\Users\user\Documents\GitHub\ElasticSearchExample\ElasticSearch\ElasticSearch.BLL\bin\Debug\net7.0\ElasticSearch.DATA.dll
+C:\Users\user\Documents\GitHub\ElasticSearchExample\ElasticSearch\ElasticSearch.BLL\bin\Debug\net7.0\ElasticSearch.DATA.pdb
+C:\Users\user\Documents\GitHub\ElasticSearchExample\ElasticSearch\ElasticSearch.BLL\obj\Debug\net7.0\ElasticSearch.BLL.csproj.CopyComplete
